@@ -18,13 +18,13 @@ To run this project on local environment:
 * Type git clone, and then paste the below URL.
 
 ```
-$ git clone https://github.com/das88768/music-player.git
+$ git clone https://github.com/AsmitBhatt/music-player.git
 ```
 
 * Press Enter to create your local clone.
 
 ```
-$ git clone https://github.com/das88768/music-player.git
+$ git clone https://github.com/AsmitBhatt/music-player.git
 > Cloning into `file-name`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
